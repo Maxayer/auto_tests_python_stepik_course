@@ -5,7 +5,7 @@ from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.common.by import By
 from webdriver_manager.chrome import ChromeDriverManager
 
-link = "http://suninjuly.github.io/registration2.html"
+link = "http://suninjuly.github.io/registration1.html"
 
 first_name_field = "input[placeholder='Input your first name']"
 last_name_field = "input[placeholder='Input your last name']"
